@@ -1,3 +1,5 @@
+> Every day is a chance to begin again.
+
 ### Hi there 👋, I am Ochir!
 
 🧑🏼‍🎓 Studying Advanced Computing at the University of Sydney <br/>
