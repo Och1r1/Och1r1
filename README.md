@@ -2,7 +2,7 @@
 
 🧑🏼‍🎓 Studying Advanced Computing at the University of Sydney <br/>
 💭 Currently learning about Shiny app development in R <br/>
-📸 Love to take [photography](https://www.instagram.com/ochirframes/) in nighttime <br/>
+📸 Passionate about night [photography](https://www.instagram.com/ochirframes/)<br/>
 
 
 ## 💻 Tech Stack:
