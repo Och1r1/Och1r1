@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ochir!
 
 🧑🏼‍🎓 Studying Advanced Computing at the University of Sydney <br/>
-💭 Currently learning about Data Structure & Algorithms and R<br/>
+💭 Currently learning about Flutter<br/>
 📸 Passionate about night [photography](https://www.instagram.com/ochirframes/)<br/>
 > The journey of a thousand miles begins with a single step.
 
